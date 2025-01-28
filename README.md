@@ -14,7 +14,7 @@ The repository is organized into **categories**, with each category containing s
 ## **Tasks List**
 
 ### **1. System Monitoring and Administration**
-1. Monitor CPU usage and send an alert if it exceeds 90%.
+1. Monitor CPU usage and send an alert if it exceeds 90%. [ System_Monitoring_and_Administration/Monitor_CPU_usage_and_send_alert.sh ]
 2. Monitor memory usage and send an alert if free memory is below 10%.
 3. Monitor disk usage and send an alert if any partition is above 80% capacity.
 4. Automatically kill processes consuming more than 50% CPU for more than 5 minutes.
